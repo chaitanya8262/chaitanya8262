@@ -1,73 +1,78 @@
-# Hi there, I'm Chaitanya Penumudi 👋
+# Chaitanya Penumudi
 
-<div align="center">
+**Data Engineer · Data Analyst · Web Developer**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Analytics+Developer;Python+%7C+Java+%7C+C%2B%2B+%7C+C;Building+scalable+data+pipelines;Turning+raw+data+into+insights)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```python
-chaitanya = {
-    "name"      : "Chaitanya Penumudi",
-    "role"      : "Data Engineer & Analytics Developer",
-    "languages" : ["Python", "Java", "C++", "C"],
-    "focus"     : ["Data Engineering", "Data Analytics", "ETL Pipelines"],
-    "contact"   : "penumudichaitanya01@gmail.com",
-    "phone"     : "+91 91103 68789",
-    "linkedin"  : "linkedin.com/in/chaitanya-penumudi",
-}
-```
-
-> Passionate about building scalable data pipelines and turning raw data into actionable insights.
+![Vijayawada](https://img.shields.io/badge/Vijayawada%2C%20Andhra%20Pradesh-grey?style=flat-square)
+[![Email](https://img.shields.io/badge/penumudichaitanya01%40gmail.com-EA4335?style=flat-square)](mailto:penumudichaitanya01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/chaitanya-penumudi/)
+[![Phone](https://img.shields.io/badge/%2B91%2091103%2068789-25D366?style=flat-square)](tel:+919110368789)
 
 ---
 
-## 🛠️ Skills & Technologies
+## About Me
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Data Engineering & Analytics
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+Data Engineer and Analytics Developer with a strong foundation in systems programming across C, C++, Java, and Python. Experienced in designing ETL pipelines, large-scale data processing with Apache Spark and Databricks, and building insightful visualizations using Seaborn and Matplotlib. Proven problem-solving ability with 450+ DSA problems solved. Passionate about transforming complex, raw data into clean, scalable, and actionable solutions.
 
 ---
 
-## 📊 GitHub Stats
+## Skills
 
-<div align="center">
+**Languages**
 
-![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya-penumudi&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-penumudi&layout=compact&theme=github_dark&hide_border=true)
+**Data Engineering**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chaitanya-penumudi&theme=github-dark-blue&hide_border=true)
+![ETL](https://img.shields.io/badge/ETL%20Pipeline%20Design-238636?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-238636?style=flat-square)
+![Batch & Stream](https://img.shields.io/badge/Batch%20%26%20Stream%20Processing-238636?style=flat-square)
 
-</div>
+**Data Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-BD561D?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-BD561D?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-BD561D?style=flat-square)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-BD561D?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+
+**Data Platforms**
+
+![Databricks](https://img.shields.io/badge/Databricks-8957E5?style=flat-square)
+
+**Web Dev**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+
+**DSA**
+
+![DSA](https://img.shields.io/badge/450%2B%20Problems%20Solved-6E40C9?style=flat-square)
+![Arrays](https://img.shields.io/badge/Arrays-6E40C9?style=flat-square)
+![Linked Lists](https://img.shields.io/badge/Linked%20Lists-6E40C9?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees-6E40C9?style=flat-square)
+![Graphs](https://img.shields.io/badge/Graphs-6E40C9?style=flat-square)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-6E40C9?style=flat-square)
 
 ---
 
-## 📫 Connect with Me
+## Connect
 
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-penumudi/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:penumudichaitanya01@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919110368789)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=chaitanya-penumudi&color=3fb950&style=flat-square&label=Profile+Views" />
-</div>
+[![Email](https://img.shields.io/badge/Email-penumudichaitanya01%40gmail.com-EA4335?style=flat-square)](mailto:penumudichaitanya01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanya--penumudi-0A66C2?style=flat-square)](https://www.linkedin.com/in/chaitanya-penumudi/)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2091103%2068789-25D366?style=flat-square)](tel:+919110368789)
