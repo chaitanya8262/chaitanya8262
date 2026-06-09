@@ -41,16 +41,8 @@ Data Engineer and Analytics Developer with a strong foundation in systems progra
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-BD561D?style=flat-square)
 ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-BD561D?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
-[
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=black)
-
-](https://powerbi.microsoft.com)
-[
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
-
-](https://tableau.com)
 
 **Data Platforms**
 
