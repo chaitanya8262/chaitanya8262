@@ -26,8 +26,11 @@ Data Engineer and Analytics Developer with a strong foundation in systems progra
 
 **Data Engineering**
 
+**Data Engineering**
+
 ![ETL](https://img.shields.io/badge/ETL%20Pipeline%20Design-238636?style=flat-square)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-238636?style=flat-square)
 ![Batch & Stream](https://img.shields.io/badge/Batch%20%26%20Stream%20Processing-238636?style=flat-square)
